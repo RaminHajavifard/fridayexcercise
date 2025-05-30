@@ -1,1 +1,2 @@
 # fridayexcercise
+* first bulletpoint
